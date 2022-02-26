@@ -1,7 +1,7 @@
 {
   "name": "verdaccio-gumroad",
   "version": "0.0.1",
-  "description": "Gives access to the package if the gumroad product license is valid.",
+  "description": "This plugin was created to give access to customer who bought a specific product from Gumroad.",
   "main": "lib/index.js",
   "types": "lib/index.d.ts",
   "files": [

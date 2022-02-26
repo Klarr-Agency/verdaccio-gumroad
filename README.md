@@ -1,10 +1,10 @@
-# verdaccio-gumroad
+# Verdaccio Gumroad Authentification
 
-> Gives access to the package if the gumroad product license is valid.
+> This plugin was created to give access to customer who bought a specific product from Gumroad.
 
 ---
 
-## development
+## Development
 
 See the [verdaccio contributing guide](https://github.com/verdaccio/verdaccio/blob/master/CONTRIBUTING.md) for instructions setting up your development environment.
 Once you have completed that, use the following npm tasks.
