@@ -1,4 +1,4 @@
-# verdaccio-verdaccio-gumroad
+# verdaccio-gumroad
 
 > Gives access to the package if the gumroad product license is valid.
 
@@ -6,15 +6,15 @@
 
 ## development
 
-See the [verdaccio contributing guide](https://github.com/verdaccio/verdaccio/blob/master/CONTRIBUTING.md) for instructions setting up your development environment. 
+See the [verdaccio contributing guide](https://github.com/verdaccio/verdaccio/blob/master/CONTRIBUTING.md) for instructions setting up your development environment.
 Once you have completed that, use the following npm tasks.
 
-  - `npm run build`
+- `npm run build`
 
-    Build a distributable archive
+  Build a distributable archive
 
-  - `npm run test`
+- `npm run test`
 
-    Run unit test
+  Run unit test
 
 For more information about any of these commands run `npm run ${task} -- --help`.
